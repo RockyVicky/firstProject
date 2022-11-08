@@ -91,10 +91,10 @@ export default class ApexChart extends React.Component {
             },
           },
           
-          legend: {
-            position: 'right',
-            offsetY: 40
-          },
+          // legend: {
+          //   position: 'right',
+          //   offsetY: 40
+          // },
           fill: {
             opacity: 1,
             
