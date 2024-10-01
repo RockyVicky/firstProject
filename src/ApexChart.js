@@ -31,7 +31,7 @@ export default class ApexChart extends React.Component {
             curve: 'straight'
           },
           title: {
-            text: 'USER PROFILE',
+            text: 'USER PROFILES',
             align: 'left'
           },
           grid: {
